@@ -59,10 +59,14 @@ Dự án được xây dựng dựa trên 4 tập dữ liệu:
 
 ---
 
-### Cấu trúc thư mục (Directory Structure)
+## Cấu trúc thư mục (Directory Structure)
+
+```text
+AIAgent-_Dashbroad_IT/
 ├── app.py                                       # Mã nguồn chính của ứng dụng
 ├── README.md                                    # Tài liệu dự án
 ├── domain_worker_metadata.csv                   # Tập dữ liệu 1
 ├── domain_worker_desires.csv                    # Tập dữ liệu 2
 ├── task_statement_with_metadata.csv             # Tập dữ liệu 3
 └── expert_rated_technological_capability.csv    # Tập dữ liệu 4
+```
