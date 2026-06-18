@@ -63,7 +63,7 @@ Dự án được xây dựng dựa trên 4 tập dữ liệu:
 
 ```text
 AIAgent-_Dashbroad_IT/
-├── BaoTran.py                                       # Mã nguồn chính của ứng dụng
+├── BaoTran.py                                   # Mã nguồn chính của ứng dụng
 ├── README.md                                    # Tài liệu dự án
 ├── domain_worker_metadata.csv                   # Tập dữ liệu 1
 ├── domain_worker_desires.csv                    # Tập dữ liệu 2
